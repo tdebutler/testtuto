@@ -1,2 +1,2 @@
 // ceci est un script JavaScript
-// Je suis dans la new-branch
+// J'étais dans la new-branch, maintenant dans la master branch
